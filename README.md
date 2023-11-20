@@ -3,7 +3,7 @@
 Welcome to the Note App! This web application allows users to create, read, update, and delete notes. Users can create an account, log in, and manage their notes. The application is built using the MERN stack (MongoDB, Express, React, Node.js).
 ## Live Demo
 
-Check out the live demo of the Note App: [Live Demo](https://notes-app-frontend-main.vercel.app/)
+Check out the live demo of the Note App: [Live Demo](https://note-phi.vercel.app/)
 <br>
 <br>
 ## Features
