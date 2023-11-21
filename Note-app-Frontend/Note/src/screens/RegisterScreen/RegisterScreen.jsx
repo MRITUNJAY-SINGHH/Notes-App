@@ -20,7 +20,7 @@ function RegisterScreen() {
    const [showPassword, setShowPassword] = useState(false);
    const [showConfirmPassword, setShowConfirmPassword] = useState(false);
 
-   const baseUrl = 'https://cyan-tough-bullfrog.cyclic.app/';
+   const baseUrl = 'https://faithful-scrubs-duck.cyclic.app/';
 
    const registerHandler = async (e) => {
       e.preventDefault();
